@@ -1,6 +1,6 @@
 
 import { expect } from 'chai';
-import greet from '../greet.js';
+import greet from '../../greet.js';
 
 describe('The greet function', () => {
     it('should greet Andrew correctly', () => {
